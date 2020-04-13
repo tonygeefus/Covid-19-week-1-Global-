@@ -1,4 +1,4 @@
-# Covid-19-week-1-Global-
+# Covid-19-week-1-Global-(https://www.kaggle.com/c/covid19-global-forecasting-week-1)
 python Notebook for kaggle challenge( It’s to identify factors that appear to impact the transmission rate of COVID-19.)
 
 Missing values are filled using mice which showed better result than knn imputer
